@@ -1,3 +1,7 @@
+<p align="center">
+<img src="./logo.svg" height="200">
+</p>
+
 <h1 align="center">
 logon-tracer
 </h1>
