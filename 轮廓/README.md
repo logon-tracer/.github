@@ -12,5 +12,5 @@ Monitor the specified exception thrown in the log or the specified exception thr
 <div align="center">
   <a href="https://logon-tracer.elonehoo.xyz/">Documentation</a> —
   <a href="https://logon-tracer.elonehoo.xyz/guide">Getting Started Guide</a> —
-  <a href="https://logon-tracer.elonehoo.xyz/guide/why">Why a new test runner</a>
+  <a href="https://logon-tracer.elonehoo.xyz/guide/why">Why a log monitoring</a>
 </div>
